@@ -1,0 +1,33 @@
+
+/*
+    Name: Verdis Moorer
+    Date: October 29, 2026
+    Assignment: CSD 340 GitHub Pages Landing Page
+*/
+
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1, h2, h3, h4 {
+    background-color: #243B53;
+    color: #FFFFFF;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+a {
+    color: #176B87;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B7791F;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #76549A;
+}
